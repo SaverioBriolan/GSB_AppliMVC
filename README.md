@@ -10,7 +10,7 @@ Objectif :
 4. Gérer le refus de certains frais hors forfait
 
 Sur ce depot il y as :
-- L'application developpé
+- L'application developpé GSB_AppliFrais
 - Les fiches SQL
 - Les tests
 
